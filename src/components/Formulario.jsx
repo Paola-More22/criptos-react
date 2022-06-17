@@ -16,7 +16,7 @@ const InputSubmit = styled.input`
     text-transform: uppercase;
     font-size: 1rem;
     transform: background-color 0.3s ease;
-    margin-top: 30px;
+    margin-top: 18px;
     &:hover {
         background-color: rgba(255,255,255,0.2);
         cursor: pointer;
